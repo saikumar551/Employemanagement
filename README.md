@@ -1,54 +1,17 @@
-# Employemanagement
-# Role-Based Access Control (RBAC) UI Project
 
-## Overview
-This project implements a Role-Based Access Control (RBAC) UI for managing user roles and permissions. It provides a straightforward interface to assign, update, and manage roles within an application.
+# Getting Started
 
-## Features
-- User-friendly UI for role management.
-- Integration with backend APIs for seamless operation.
-- Responsive design for cross-platform compatibility.
+### Reference Documentation
+For further reference, please consider the following sections:
 
-## Project Structure
-- **src/**: Contains the source code for the project.
-- **pom.xml**: Maven configuration file for building the project.
-- **HELP.md**: Additional help documentation for understanding the project.
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.5/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.2.5/maven-plugin/reference/html/#build-image)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.2.5/reference/htmlsingle/index.html#data.sql.jpa-and-spring-data)
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/saikumar551/Employemanagement.git
-Navigate to the project directory:
-bash
-Always show details
+### Guides
+The following guides illustrate how to use some features concretely:
 
-Copy code
-cd batch11-rbac-ui
-Build the project using Maven:
-bash
-Always show details
+* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
-Copy code
-./mvnw clean install
-Run the project locally:
-bash
-Always show details
-
-Copy code
-./mvnw spring-boot:run
-Accessing the Application
-Open your browser and navigate to http://localhost:8080 to access the RBAC UI.
-Instructions for Testing
-Ensure that the backend server is running.
-Test various role-management functionalities like creating roles, updating permissions, and assigning users to roles.
-Links
-Repository: GitHub Repository (Replace this with your actual URL)
-Deployment: Add deployment link if applicable.
-Contribution
-For contributions or queries, please contact [saisunny760@gmail.com]. """
-
-
-
-Copy code
-Result
-'/mnt/data/batch11_extracted/batch11/README.md
